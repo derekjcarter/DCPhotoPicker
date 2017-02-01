@@ -4,7 +4,7 @@ This is a simple popup photo picker written in Objective-C.  Highly customizable
 
 ### Previews
 
-(Previews/DCPhotoPicker.png)
+![Preview](Preview/DCPhotoPicker.png)
 
 ### Usage
 
